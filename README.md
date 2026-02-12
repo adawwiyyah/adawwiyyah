@@ -33,7 +33,7 @@ I like breaking problems down, thinking logically, and turning ideas into someth
 
 ## 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,codeblocks,laravel,canva&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vscode&perline=6" />
 </p>
 
 ---
